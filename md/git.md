@@ -1,0 +1,12 @@
+# git 명령어
+작성자 : 당지혜
+
+
+![git](../assets/git.png)
+
+* git status : 상태 확인
+* git add : 커밋 대기열로 이동
+* git commit : 확정본 만듦
+* git log : 확정본 리스트 보기
+* git reset : 버전 되돌리고
+* git tag : 버전에 tag 추가 또는 삭제
