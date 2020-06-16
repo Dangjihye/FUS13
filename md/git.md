@@ -14,3 +14,5 @@ git tag v1 ~ : 추가
 git tag -d v1 ~ : 삭제
 git reset v1 ~ : 버전 돌리기 (바꾸기)
 git --hard v1 ~ : 최종 버전으로 돌아가기 
+
+[README](../README.md)
